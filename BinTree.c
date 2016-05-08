@@ -36,7 +36,7 @@ void FreeBT(TreeNode *root, int level)                            // Function of
 
 void CRA(int G)
 {
-asdfklasdjflkasjdkl
+
 }
 
 
