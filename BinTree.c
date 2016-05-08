@@ -25,10 +25,12 @@ void FreeBT(TreeNode *root, int level)                            // Function of
 	else                                                          // Free() of all node by using recursive funtion
 	{
 		FreeBT(root->left,level+1);
-		FreeBT(root->right,level+1);
-		PrintTab(level);
+		FreeBT(root->rig
 		printf("Deleting %c,level %d\n",root->data,level);
 		free(root);
+
+
+		asdjfklasjdklfjaskldfjlkjasdlkfjasldkfjqweruioqweurioqweuroiqwejfklsad
 	}
 }
 
