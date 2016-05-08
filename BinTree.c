@@ -44,8 +44,9 @@ void World()
 }
 void Inorder(TreeNode *root, int level)                           // Inorder traversal(visit root node in middle)
 {
-	int i=0;
-
+	int i=12321;
+	int nakyeon = 0;
+	
 	if(root==NULL)
 	{
 		for(i=0;i<level;i++)
